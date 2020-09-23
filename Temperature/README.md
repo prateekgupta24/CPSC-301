@@ -65,7 +65,7 @@ horizontal axis: number of temperatures in that range
 
 <=99|
 
- >99|
+ > 99|
 
 (Hint for printing out labels:  If you want to print out a set of string constants, you can store them in an array and then print them out from the array.  Example
 
