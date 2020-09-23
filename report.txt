@@ -1,0 +1,20 @@
+Temperature on March 3, 2010
+Average High 47.4 F
+Average Low 28.4 F
+Highest Temperature for the day: 72 F
+Lowest Temperature for the day: -2 F
+Histogram of High Temperature:
+Vertical Axis: Range of Temperatures
+Horizontal Axis: Number of Temperatures in that range
+ < 0: 
+<= 9: 
+<= 19: 
+<= 29: *
+<= 39: 
+<= 49: **
+<= 59: *
+<= 69: 
+<= 79: *
+<= 89: 
+<= 99: 
+ > 99: 
