@@ -15,13 +15,19 @@ For the high temperatures only, calculate and draw a histogram.  This means coun
 Sample contents of temperature.txt
  
 March 3, 2010
-5
-45		17
-72		54
-58		45
-21		-2
-41		28
 
+5
+
+45		 17
+
+72		 54
+
+58		 45
+
+21		 -2
+
+41		 28
+ 
 Sample content of report.txt:
 
 Temperatures on March 3, 2010
@@ -38,22 +44,35 @@ Histogram of high temperatures:
 vertical axis: range of temperatures
 horizontal axis: number of temperatures in that range   
  < 0|
+ 
 <= 9|
+
 <=19|
+
 <=29|*
+
 <=39|
+
 <=49|**
+
 <=59|* 
+
 <=69|
+
 <=79|*
+
 <=89|
+
 <=99|
+
  >99|
 
 (Hint for printing out labels:  If you want to print out a set of string constants, you can store them in an array and then print them out from the array.  Example
 
 string grade_level [4] = {"Freshman", "Sophomore", "Junior", "Senior"};
-for (int level = 0; level < 4; level++)
+
+for(int level = 0; level < 4; level++)
+
 	cout << grade_level[level] << endl;
 
 
